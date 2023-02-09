@@ -4,7 +4,7 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ## Screenshot
 
-### Home Page
+### Home Screen
 
 ![Screenshot](./home-page.png)
 
